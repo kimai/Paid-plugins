@@ -18,13 +18,11 @@
 </p>
 
 
-<p>
-<strong>If you have been invited to this repository and wonder why:</strong>
-</p>
+<h3>Wonder why you have been invited to this repository?</h3>
 
 <p>
-I am currently consolidating the development infrastructure and the way how plugins are sold.
-In order to achieve long term goals, I am moving all customers to this repository.
+I am currently consolidating the development infrastructure and the way how plugins are hosted and sold.
+In order to achieve some long term goals, I am moving all customers to this repository for future support.
 </p>
 
 <p>
