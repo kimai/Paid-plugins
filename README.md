@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kimai.org">Bugs and Feature requests</a> ·
-  <a href="https://www.kimai.cloud">Discussions</a>
+  <a href="https://github.com/kimai/plugins/issues/new">Report a bug</a> ·
+  <a href="https://github.com/kimai/plugins/issues/new">Create a feature request</a> ·
+  <a href="https://github.com/kimai/plugins/discussions/new?category=questions-answers">Ask a question</a> ·
+  <a href="https://github.com/kimai/plugins/discussions/new?category=general">Start a discussion</a>
 </p>
