@@ -16,3 +16,19 @@
   <a href="https://github.com/kimai/plugins/discussions/new?category=questions-answers">Ask a question</a> ·
   <a href="https://github.com/kimai/plugins/discussions/new?category=general">Start a discussion</a>
 </p>
+
+
+<p>
+<strong>If you have been invited to this repository and wonder why:</strong>
+</p>
+
+<p>
+I am currently consolidating the development infrastructure and the way how plugins are sold.
+In order to achieve long term goals, I am moving all customers to this repository.
+</p>
+
+<p>
+Downloads will be managed via Gumroad exclusively in the future. If you bought a plugin directly via invoice, please get in touch at <a href="mailto:info@keleo.de">info@keleo.de</a>.
+I will create a discount code for you, which you can use to add the product to your Gumroad library for free. 
+</p>
+
