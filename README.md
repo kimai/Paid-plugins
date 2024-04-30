@@ -18,15 +18,25 @@
 </p>
 
 
-<h3>Wonder why you have been invited to this repository?</h3>
+## Which plugins are discussed here ?
 
-<p>
-I am currently consolidating the development infrastructure and the way how plugins are hosted and sold.
-In order to achieve some long term goals, I am moving all customers to this repository for future support.
-</p>
+You can buy the plugins at [Gumroad](https://kevinpapst.gumroad.com/) and [LemonSqueezy](https://store.kimai.org/).
 
-<p>
-Downloads will be managed via Gumroad exclusively in the future. If you bought a plugin directly via invoice, please get in touch at <a href="mailto:info@keleo.de">info@keleo.de</a>.
-I will create a discount code for you, which you can use to add the product to your Gumroad library for free. 
-</p>
+- Employee account: Working hours, holiday, sickness, public holidays
+- Custom fields
+- Expense management
+- Kiosk mode with support for Barcode, RFID, Web NFC
+- Audit trail logs
+- Task planning
+- Translations
+- Invoicing with automatic PDF timesheets
+- Custom content
 
+### Download licensed plugins
+
+In case you bought a license for one of the Kimai plugins, you can get your latest update in that particular shop:
+
+- [Gumroad library](https://app.gumroad.com/library) 
+- [LemonSqueezy library](https://store.kimai.org/billing)
+
+The documentation explains [how to install and update](https://www.kimai.org/documentation/plugin-management.html) your plugins.
