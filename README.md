@@ -17,7 +17,6 @@
   <a href="https://github.com/kimai/plugins/discussions/new?category=general">Start a discussion</a>
 </p>
 
-
 ## Which plugins are discussed here ?
 
 You can buy the plugins at [Gumroad](https://kevinpapst.gumroad.com/) and [LemonSqueezy](https://store.kimai.org/).
@@ -34,9 +33,9 @@ You can buy the plugins at [Gumroad](https://kevinpapst.gumroad.com/) and [Lemon
 
 ### Download licensed plugins
 
-In case you bought a license for one of the Kimai plugins, you can get your latest update in that particular shop:
+You can get your latest plugin version at: [https://license.kimai.org/](https://license.kimai.org/)
 
-- [Gumroad library](https://app.gumroad.com/library) 
-- [LemonSqueezy library](https://store.kimai.org/billing)
+You need to login with the email that you used for the purchase. 
+If you do NOT receive an email after 10 minutes, please contact support@kimai.org.
 
 The documentation explains [how to install and update](https://www.kimai.org/documentation/plugin-management.html) your plugins.
