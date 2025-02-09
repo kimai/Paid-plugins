@@ -19,7 +19,7 @@
 
 ## Which plugins are discussed here ?
 
-You can buy the plugins at [Gumroad](https://kevinpapst.gumroad.com/) and [LemonSqueezy](https://store.kimai.org/).
+You can buy the plugins following the links on the [store pages](https://www.kimai.org/store/).
 
 - Employee account: Working hours, holiday, sickness, public holidays
 - Custom fields
@@ -30,6 +30,7 @@ You can buy the plugins at [Gumroad](https://kevinpapst.gumroad.com/) and [Lemon
 - Translations
 - Invoicing with automatic PDF timesheets
 - Custom content
+
 
 ### Download licensed plugins
 
