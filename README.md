@@ -12,23 +12,22 @@
 
 <p align="center">
   <a href="https://github.com/kimai/plugins/issues/new">Report a bug</a> ·
-  <a href="https://github.com/kimai/plugins/issues/new">Create a feature request</a> ·
+  <a href="https://roadmap.kimai.org/">Create a feature request</a> ·
   <a href="https://github.com/kimai/plugins/discussions/new?category=questions-answers">Ask a question</a> ·
-  <a href="https://github.com/kimai/plugins/discussions/new?category=general">Start a discussion</a>
 </p>
 
 ## Which plugins are discussed here ?
 
-You can buy the plugins following the links on the [store pages](https://www.kimai.org/store/).
+You can buy the plugins following the links on the [store pages](https://www.kimai.org/en/store/).
 
-- Employee account: Working hours, holiday, sickness, public holidays
+- Working hours, holiday, sickness, public holidays
 - Custom fields
 - Expense management
 - Kiosk mode with support for Barcode, RFID, Web NFC
 - Audit trail logs
 - Task planning
 - Translations
-- Invoicing with automatic PDF timesheets
+- E-Invoicing + automatic PDF exports
 - Custom content
 
 
